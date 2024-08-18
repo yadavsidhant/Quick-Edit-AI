@@ -1,0 +1,11 @@
+Flask
+torch
+torchvision
+torchaudio
+transformers
+moviepy
+pydub
+gtts
+opencv-python-headless
+pillow
+git+https://github.com/openai/whisper.git
